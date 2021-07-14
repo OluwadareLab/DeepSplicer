@@ -22,7 +22,7 @@
 **1.	Content of folders:**
 -----------------------------------------------------------	
 * src: Model source code. <br />
-* * src: Hyper-parameter tuning source code. <br />
+* src: Hyper-parameter tuning source code. <br />
 * DeepSplicer models <br />
 
 
