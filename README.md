@@ -26,9 +26,7 @@
 * DeepSplicer models <br />
 
 
-**1.	Content of folders:**
+**1.	Genomic data used in this reserach:**
 -----------------------------------------------------------	
-* src: Model source code. <br />
-* src: Hyper-parameter tuning source code. <br />
-* DeepSplicer models <br />
+In this research, we reconstructed data downloaded from Albaradei, S. et al.,
 
