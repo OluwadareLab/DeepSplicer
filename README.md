@@ -26,7 +26,7 @@
 * DeepSplicer models <br />
 
 
-**1.	Genomic data used in this reserach:**
+**2.	Genomic data used in this reserach:**
 -----------------------------------------------------------	
 In this research, we reconstructed data downloaded from Albaradei, S. et al.,
 
