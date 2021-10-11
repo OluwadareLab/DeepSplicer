@@ -1,1 +1,1 @@
-This file save your plottings
+This file save your result plots in your specified file format
