@@ -1,0 +1,1 @@
+This folder contains your results log file and in .txt format
