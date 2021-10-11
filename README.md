@@ -48,7 +48,7 @@ Usage: To use, type in the terminal python deepsplicer.py -n model_name -s seque
                           		
                               
 * **Arguments**: <br />	
-	* name: A string for the name of the model <br />
+	* model_name: A string for the name of the model <br />
 	* sequence: A string to specify acceptor or donor input dataset<br />
 	* organism: A string to specify organism name i.e ["hs", "at", "oriza", "d_mel", "c_elegans"] <br />
 	* encoded sequence file: A file containing the encoded sequence data <br />
