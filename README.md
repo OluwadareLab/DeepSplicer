@@ -29,7 +29,7 @@
 * Plots file for utilization results plots <br />
 
 
-**2.	Hi-C Data used in this study:**
+**2.	Datasets:**
 -----------------------------------------------------------
 In our research, we utilized five carefully selected datasets from organisms, namely: Homo sapiens, Oryza sativa japonica, Arabidopsis thaliana, Drosophila melanogaster, and Caenorhabditis elegans. We downloaded these reference genomic sequence datasets (FASTA file format) from [Albaradei, S. et al](https://pubmed.ncbi.nlm.nih.gov/32550561/) and its corresponding annotation sequence (GTF file format) from [Ensembl](https://uswest.ensembl.org/index.html). Our data for constructed to permit a 
 **Sequence Length of 400**
