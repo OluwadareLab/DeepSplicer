@@ -25,7 +25,7 @@
 * src: Hyper-parameter tuning source code. <br />
 * src: DeepSplicer cross-validation source code. deepsplicer_cross_val.py <br />
 * models: Models file for deepsplicer models <br />
-* log:Log file for utilization results logs <br />
+* log: Log file for utilization results logs <br />
 * plots: Plots file for utilization results plots <br />
 
 
