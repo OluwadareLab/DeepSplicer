@@ -92,6 +92,18 @@ def deep_cnn_classifier():
 
 		layer = AveragePooling1D(pool_size=2, strides=1, padding='same')
 		model.add(layer)
+		
+		layer = Conv1D(filters=50, 
+			kernel_size=9, 
+			strides=1, 
+			padding='same', 
+			batch_input_shape=(None, Length, 4), 
+			activation='relu',
+			)
+		model.add(layer)
+
+		layer = AveragePooling1D(pool_size=2, strides=1, padding='same')
+		model.add(layer)
 
 
 	else:
