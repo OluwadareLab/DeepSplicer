@@ -8,7 +8,7 @@
 # +-------------------------+-----------------------------+
 # Reserach Lab :  OluwadareLab, 2021
 # +-------------------------+-----------------------------+
-# This also contain peice of code from:
+# This also contain piece of code from:
 # Wang, R. (2013) SpliceFinder source code (Version 2.0) [Source code]. 
 # https://github.com/deepomicslab/SpliceFinder/blob/master/SpliceFinder_sourcecode/CNN_model.py
 # +-------------------------+-----------------------------+
