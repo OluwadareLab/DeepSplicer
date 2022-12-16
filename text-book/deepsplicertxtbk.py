@@ -8,8 +8,9 @@
 # +-------------------------+-----------------------------+
 # Reserach Lab :  OluwadareLab, 2021
 # +-------------------------+-----------------------------+
+# comment added 12/15/2022
 # This also contain piece of code from:
-# Wang, R. (2013) SpliceFinder source code [Source code]. 
+# Wang, R et al., (2019) SpliceFinder source code [Source code]. 
 # https://github.com/deepomicslab/SpliceFinder/blob/master/SpliceFinder_sourcecode/CNN_model.py
 # +-------------------------+-----------------------------+
 
@@ -47,7 +48,7 @@ import argparse
 Length = 400  # length of window
 dimensions = 1
 
-
+#code from Wang, R et al., (2019)
 def load_data(dataset, label):
 
 	labels = np.loadtxt(label)
