@@ -61,7 +61,7 @@ def load_data(dataset, label):
 
 
 
-
+# Original Code by DeepSplicer
 def deep_cnn_classifier():
 	# build the model
 	model = Sequential()
